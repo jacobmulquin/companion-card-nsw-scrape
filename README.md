@@ -19,6 +19,7 @@ categorised as "Unknown".
 
 Either run scrape.sh or do each step individually:
 
+0. mkdir raw, raw/index, raw/records, data, output
 1. dl_postcodes.sh
 2. extract_postcodes.sh
 3. dl_index.sh
